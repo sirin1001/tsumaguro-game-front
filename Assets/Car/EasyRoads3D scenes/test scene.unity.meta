@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scenes/Test.unity.meta
+guid: 2d3509296f0faec43b022d8da46ca722
+=======
 guid: e39e263524ebe21438a3087fa4856f2c
+>>>>>>> main:Assets/Car/EasyRoads3D scenes/test scene.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
