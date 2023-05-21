@@ -13,7 +13,7 @@ public class CheckPoint : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        
+        CPManager.GetComponent<CheckPointManager>().recvEnterCP(CPNumber);
     }
 
     public void setCPNumber(int Number)

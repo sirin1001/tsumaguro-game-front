@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Mater : MonoBehaviour
 {
-    GameObject Car;
+    [SerializeField]GameObject Car;
     float speed;
     GameObject Gauge;
 
     void Start()
     {
-        Car = GameObject.Find("Car");
+        // Car = GameObject.Find("Car");
         Gauge = transform.Find("Gauge").gameObject;
 
     }
