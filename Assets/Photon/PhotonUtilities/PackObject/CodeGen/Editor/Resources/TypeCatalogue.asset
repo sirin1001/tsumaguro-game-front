@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: TypeCatalogue
   m_EditorClassIdentifier: 
   catalogue:
+
     keys:
     - emotitron.TestPackObject
     vals:
