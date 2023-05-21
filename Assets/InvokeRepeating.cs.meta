@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/InvokeRepeating.cs.meta
+guid: 93a3320314a0f3344b9517c72c1b7fd6
+========
+guid: a017d838853553141af437613e150de1
+>>>>>>>> 9c9289b6558ab906104ce499dc561973d409f04e:Assets/Scenes/explosion.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
