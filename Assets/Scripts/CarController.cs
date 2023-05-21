@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
-public class CarController : MonoBehaviour
+public class CarController : MonoBehaviourPunCallbacks
 {
     public List<AxleInfo> axleInfos; // 個々の車軸の情報
     public float maxMotorTorque; //ホイールに適用可能な最大トルク
